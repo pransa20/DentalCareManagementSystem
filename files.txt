@@ -1,0 +1,10 @@
+Login Details
+Login Details for admin : admin/pranisha
+Login Details for Patient: neha@gmail.com/Neha123
+rojlin123@hotmail.com/Rojlin123
+kripam@hotmail.com/kripam
+
+Login Details for Doctor: anjud@gmail.com/anjud123
+kayasthaneha@gmail.com/kayasthame
+
+hena12@hotmail.com/hena123
